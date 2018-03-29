@@ -1,5 +1,3 @@
 # Connecticut-OD-Demographics-
 
-#data mining of Connecticut's opioid death data
-
-#data publically avaiable at data.gov
+Data mining of Connecticut's opioid death data. Data is publically avaiable at data.gov
